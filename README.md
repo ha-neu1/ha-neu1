@@ -21,7 +21,7 @@ Here are some ideas to get you started:
  🌱 I’m currently learning back-end language!
 </br>
 </div>
-<div align=center><h3> 🛠 Things I code with ... </h3></div>
+<div align=center><h3> Things I code with...🛠 </h3></div>
 <br>
 <div>
  
