@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align=center><h1> :dizzy: ha-neu1 :dizzy: </h1></div>
+<div align=center><h1> :four_leaf_clover: ha-neu1 :four_leaf_clover: </h1></div>
 <div align=center>
 <br>
 
