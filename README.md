@@ -22,7 +22,7 @@ Here are some ideas to get you started:
  I’m currently learning back-end language!
 </br><p>
 </div>
-<div align=center><h3> Things I code with...🛠 </h3>
+<div align=center><h3> 🛠Things I code with...🛠 </h3>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
  
 </div>
-<div align=center><h3> About Me </h3>
+<div align=center>
 <br>
  
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ha-neu1&theme=dark&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ha-neu1&theme=dark&layout=compact)](https://github.com/ha-neu1/github-readme-stats)
