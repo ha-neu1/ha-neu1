@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ha-neu1&theme=dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ha-neu1&theme=dark&layout=compact)](https://github.com/ha-neu1/github-readme-stats)
 
-<h2>stack</h2>
+<!-- <h2>stack</h2> -->
 </div>
