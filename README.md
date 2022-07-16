@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![nyan-cat](https://user-images.githubusercontent.com/107821879/179347151-4b24e85e-f9a2-4f91-bd23-188be8718b34.gif)
  <br>
- Welcome to my page!<br>
+ Welcome to my page! I'm Kim haneul.<br>
  I’m currently learning back-end language!
 </br><p>
 </div>
