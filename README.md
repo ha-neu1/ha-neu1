@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ha-neu1/ha-neu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align=center><h1> Hi, I’m ha-neu1 👋 </h1></div>
+
 <div align=center>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ha-neu1&theme=dark&layout=compact)](https://github.com/ha-neu1/github-readme-stats)
-  
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ha-neu1&theme=dark&show_icons=true)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ha-neu1&theme=dark&layout=compact)](https://github.com/ha-neu1/github-readme-stats)
 </div>
