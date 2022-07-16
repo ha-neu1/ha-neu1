@@ -22,7 +22,9 @@ Here are some ideas to get you started:
  I’m currently learning back-end language!
 </br><p>
 </div>
+
 ----
+
 <div align=center>
 <br>
  
