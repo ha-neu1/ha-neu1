@@ -13,10 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align=center><h1> :sparkles: ha-neu1 :sparkles: </h1></div>
-
 <div align=center>
+🌱 I’m currently learning back-end language! 🌱
   
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ha-neu1&theme=dark&show_icons=true)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ha-neu1&theme=dark&layout=compact)](https://github.com/ha-neu1/github-readme-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ha-neu1&theme=dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ha-neu1&theme=dark&layout=compact)](https://github.com/ha-neu1/github-readme-stats)
 </div>
