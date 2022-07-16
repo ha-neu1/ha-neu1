@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align=center><h1> Hi, I’m ha-neu1 👋 </h1></div>
+<div align=center><h1> :sparkles: ha-neu1 :sparkles: </h1></div>
 
 <div align=center>
   
