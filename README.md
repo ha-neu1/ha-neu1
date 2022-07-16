@@ -22,6 +22,14 @@ Here are some ideas to get you started:
  I’m currently learning back-end language!
 </br><p>
 </div>
+<div align=center>
+<br>
+ 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ha-neu1&theme=dark&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ha-neu1&theme=dark&layout=compact)](https://github.com/ha-neu1/github-readme-stats)
+
+<!--[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ha-neu1&theme=react-dark)](https://github.com/ha-neu1/github-readme-activity-graph)-->
+
+</div>
 <div align=center><h3> 🛠Things I code with...🛠 </h3>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -34,12 +42,4 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
  
-</div>
-<div align=center>
-<br>
- 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ha-neu1&theme=dark&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ha-neu1&theme=dark&layout=compact)](https://github.com/ha-neu1/github-readme-stats)
-
-<!--[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ha-neu1&theme=react-dark)](https://github.com/ha-neu1/github-readme-activity-graph)-->
-
 </div>
