@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align=center><h1> ✨ Ha-neu1 ✨ </h1></div>
+<div align=center> Welcome to my page! I'm Kim haneul.<br>
+ I’m currently learning back-end language!</div>
 <div align=center>
 <br>
 
@@ -22,9 +23,6 @@ Here are some ideas to get you started:
  I’m currently learning back-end language!
 </br><p>
 </div>
-
-----
-
 <div align=center>
 <br>
  
