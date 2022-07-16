@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 </br>
 </div>
 <div align=center><h3> Things I code with...🛠 </h3>
-<br> 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
