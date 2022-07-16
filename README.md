@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 <div align=center>
  <br>
  ![1592807139528](https://user-images.githubusercontent.com/107821879/179346923-d068fdb9-54bf-417e-97d0-5f211a839b6b.gif)
-🌱 I’m currently learning back-end language!
+
+ 🌱 I’m currently learning back-end language!
 </br>
 
 <br>
