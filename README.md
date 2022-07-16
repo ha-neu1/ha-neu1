@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 -->
 <div align=center><h1> :dizzy: ha-neu1 :dizzy: </h1></div>
 <div align=center>
+<br>
+
+![nyan-cat](https://user-images.githubusercontent.com/107821879/179347151-4b24e85e-f9a2-4f91-bd23-188be8718b34.gif)
+
  <br>
  🌱 I’m currently learning back-end language!
 </br>
