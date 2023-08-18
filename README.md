@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Haneul's%20GitHub%20Profile&fontSize=55&fontAlignY=40&color=gradient)
 
 <div align=center>
-<!--![nyan-cat](https://user-images.githubusercontent.com/107821879/179347151-4b24e85e-f9a2-4f91-bd23-188be8718b34.gif)-->
+ 
+![nyan-cat](https://user-images.githubusercontent.com/107821879/179347151-4b24e85e-f9a2-4f91-bd23-188be8718b34.gif)
+ 
  <h4>Welcome to my page! I'm Kim haneul.<br>
   I'm currently learning web development with Java!</h4><br>
 
