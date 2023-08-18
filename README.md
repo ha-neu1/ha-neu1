@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ![nyan-cat](https://user-images.githubusercontent.com/107821879/179347151-4b24e85e-f9a2-4f91-bd23-188be8718b34.gif)
  <h4>Welcome to my page! I'm Kim haneul.<br>
-  I’m currently learning back-end language!</h4><br>
+  I'm currently learning web development with Java!</h4><br>
 
 <!--  [![haneul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ha-neu1&theme=react)](https://github.com/ha-neu1/github-readme-activity-graph)-->
  
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
  
 </div>
-
+<br/>
 <div align=center>
 📧 contact : gksmf2943@naver.com
 </div>
