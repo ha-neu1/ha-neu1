@@ -39,3 +39,7 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
  
 </div>
+
+<div align=center>
+📧 contact : gksmf2943@naver.com
+</div>
