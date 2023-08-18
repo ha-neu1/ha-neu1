@@ -11,15 +11,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <div align=center><h1> ✨ Ha-neu1 ✨ </h1></div>
+-->
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Haneul's%20GitHub%20Profile&fontSize=55&fontAlignY=40&color=gradient)
+
 <div align=center>
 
 ![nyan-cat](https://user-images.githubusercontent.com/107821879/179347151-4b24e85e-f9a2-4f91-bd23-188be8718b34.gif)
  <h4>Welcome to my page! I'm Kim haneul.<br>
   I’m currently learning back-end language!</h4><br>
 
-  [![haneul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ha-neu1&theme=react)](https://github.com/ha-neu1/github-readme-activity-graph)
+<!--  [![haneul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ha-neu1&theme=react)](https://github.com/ha-neu1/github-readme-activity-graph)-->
  
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ha-neu1&theme=dark&show_icons=true)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ha-neu1&theme=dark&layout=compact)](https://github.com/ha-neu1/github-readme-stats)
