@@ -24,13 +24,6 @@ Here are some ideas to get you started:
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ha-neu1&theme=react-dark)](https://github.com/ha-neu1/github-readme-activity-graph)-->
 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
-</a>
-
 </div>
 <div align=center><h3> 🛠Things I code with...🛠 </h3>
 
